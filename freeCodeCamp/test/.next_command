@@ -229,3 +229,5 @@ find -name icons
 mv CodeRoad.svg client/assets/icons/
 find -name icons
 mv freeCodeCamp.svg client/assets/icons/
+ls --color=auto
+find
