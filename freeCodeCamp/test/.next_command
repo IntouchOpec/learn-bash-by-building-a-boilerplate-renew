@@ -156,3 +156,9 @@ find
 mkdir client
 midir client/src
 mkdir client/src
+touch client/src/index.html
+__vsc_prompt_cmd_original
+cd client/src/
+rm -rf index.html
+cd ../..
+mv index.html client/src/
