@@ -201,3 +201,4 @@ ls --color=auto
 mv header.png ..
 สห
 ls --color=auto
+cd ..
