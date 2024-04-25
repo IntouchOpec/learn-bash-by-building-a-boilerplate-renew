@@ -233,3 +233,4 @@ ls --color=auto
 find
 mkdir client/assets/icons
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
