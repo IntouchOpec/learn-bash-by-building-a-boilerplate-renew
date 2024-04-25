@@ -162,3 +162,4 @@ cd client/src/
 rm -rf index.html
 cd ../..
 mv index.html client/src/
+find
