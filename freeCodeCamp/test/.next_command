@@ -105,3 +105,4 @@ touch .gitignore
 ls --color=auto -la
 ls --color=auto --help
 ls --color=auto -a
+cd .
