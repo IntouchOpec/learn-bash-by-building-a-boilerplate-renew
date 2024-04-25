@@ -171,3 +171,4 @@ more
 more index.html
 cd ../..
 mv index.js client/src
+mv styles.css client/src
