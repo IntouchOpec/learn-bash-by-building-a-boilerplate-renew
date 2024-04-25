@@ -103,3 +103,4 @@ touch .gitinore
 rm -rf .gitinore
 touch .gitignore
 ls --color=auto -la
+ls --color=auto --help
