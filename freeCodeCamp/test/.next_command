@@ -199,3 +199,5 @@ cd ..
 cd images/
 ls --color=auto
 mv header.png ..
+สห
+ls --color=auto
