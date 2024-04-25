@@ -279,3 +279,19 @@ find website-boilerplate/
 clear
 echo goodbye terminal
 exit
+git remote list
+git remote
+__vsc_prompt_cmd_original
+git remote show origin
+git remote show coderoad
+git remote -v
+__vsc_prompt_cmd_original
+git remote add origin2 https://github.com/IntouchOpec/learn-bash-by-building-a-boilerplate-renew.git
+git branch -M main
+git status
+ls --color=auto
+echo hello website
+cp images/ images/
+ls --color=auto --color=auto
+mv lato.ttf fonts
+cd client/src/
