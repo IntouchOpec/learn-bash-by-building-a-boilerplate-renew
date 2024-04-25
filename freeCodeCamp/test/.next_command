@@ -175,3 +175,5 @@ mv styles.css client/src
 ดรืก
 find
 find client/
+find client/src/
+find --help
