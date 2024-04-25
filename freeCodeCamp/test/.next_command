@@ -63,3 +63,6 @@ pwd
 cd test/
 cd ..
 ls --color=auto
+__vsc_prompt_cmd_original
+more package
+more package.json
