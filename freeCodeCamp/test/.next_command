@@ -48,3 +48,9 @@ echo hello terminal
 pwd
 ls --color=auto
 cd freeCodeCamp/
+ls --color=auto
+ls --color=auto
+cd ..
+cd freeCodeCamp/
+ls --color=auto
+pwd
