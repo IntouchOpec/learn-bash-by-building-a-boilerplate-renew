@@ -257,3 +257,4 @@ touch RENAME.md
 touch README.md
 rm RENAME.md REnAME.md
 ls --color=auto
+echo Yay!
