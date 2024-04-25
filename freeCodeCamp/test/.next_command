@@ -163,3 +163,11 @@ rm -rf index.html
 cd ../..
 mv index.html client/src/
 find
+ls --color=auto
+find index.html
+cd client/src/
+ls --color=auto
+more
+more index.html
+cd ../..
+mv index.js client/src
