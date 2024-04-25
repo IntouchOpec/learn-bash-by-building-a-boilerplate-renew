@@ -197,3 +197,4 @@ cd ..
 cd ..
 cd ..
 cd images/
+ls --color=auto
