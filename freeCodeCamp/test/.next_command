@@ -248,3 +248,4 @@ find
 rmdir fonts/
 find fonts
 rm --help
+rm -r fonts/
