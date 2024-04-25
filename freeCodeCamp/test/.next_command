@@ -102,3 +102,4 @@ touch index.js
 touch .gitinore
 rm -rf .gitinore
 touch .gitignore
+ls --color=auto -la
