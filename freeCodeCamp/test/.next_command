@@ -252,3 +252,6 @@ rm -r fonts/
 ls --color=auto
 touch package.json
 touch server.js
+touch REnAME.md
+touch RENAME.md
+touch README.md
